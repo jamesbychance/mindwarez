@@ -5,8 +5,6 @@ category: Project
 meta_thoughts: Motion-sensing technology—made frictionless, reliable, and scalable—becomes an extension of ourselves to enhance human flourishing.
 ---
 
-Welcome to Mindwarez
-
 Mindwarez is about exploring how motion-sensing technology can transform human potential. Imagine lightweight sensors that seamlessly capture how you move, AI that instantly understands your movements, and systems that scale this understanding across millions of people simultaneously.
 
 My mission is to extend human capability through technology that understands and enhances our natural movements. By creating tools that seamlessly interface with human motion, we forge a deeper connection between mind and machine. 
@@ -25,4 +23,3 @@ At its heart, Mindwarez is about unleashing human potential through technology t
 Awestruck,
 
 JDE
-
