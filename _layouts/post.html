@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article class="feed-item">
+    <div class="thread-line"></div>
+    <div class="category">{{ page.category }}</div>
+    
+    <h2>{{ page.title }}</h2>
+    {{ content }}
+
+    <div class="meta-thoughts">
+        {{ page.meta_thoughts }}
+    </div>
+
+    <div class="time-signature">
+        Published: {{ page.date | date: "%B %d, %Y" }}
+    </div>
+</article>

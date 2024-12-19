@@ -1,0 +1,8 @@
+title: mindwarez
+author: JDE
+description: Machine Learning Research & Philosophy
+baseurl: "/mindwarez"  # if your repo name is mindwarez
+url: "https://jamesbychance.github.io"
+
+# Build settings
+markdown: kramdown

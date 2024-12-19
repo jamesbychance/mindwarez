@@ -1,0 +1,22 @@
+---
+layout: default
+---
+{% for post in site.posts %}
+<div class="feed-item">
+    <div class="thread-line"></div>
+    <div class="category">{{ post.category }}</div>
+    
+    <h2>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+    {{ post.excerpt }}
+
+    <div class="meta-thoughts">
+        {{ post.meta_thoughts }}
+    </div>
+
+    <div class="time-signature">
+        Published: {{ post.date | date: "%B %d, %Y" }}
+    </div>
+</div>
+{% endfor %}
