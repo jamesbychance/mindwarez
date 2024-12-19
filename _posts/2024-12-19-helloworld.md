@@ -2,7 +2,7 @@
 layout: post
 title: "welcome to mindwarez"
 category: Project
-meta_thoughts: Motion-sensing technology—made frictionless, reliable, and scalable—becomes an extension of ourselves to enhance ourselves.
+meta_thoughts: Motion-sensing technology—made frictionless, replicable, and scalable—becomes an extension of ourselves to enhance ourselves.
 ---
 
 Mindwarez is about exploring how motion-sensing technology can transform human potential. Imagine lightweight sensors that seamlessly capture how you move, AI that instantly understands your movements, and systems that scale this understanding across millions of people simultaneously.
