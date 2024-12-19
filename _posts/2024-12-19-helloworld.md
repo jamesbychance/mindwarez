@@ -22,3 +22,7 @@ This blog documents this journey through four lenses:
 
 At its heart, Mindwarez is about unleashing human potential through technology that understands our every move. Join me as we build this future.
 
+Awestruck,
+
+JDE
+
