@@ -6,7 +6,7 @@ meta_thoughts: Motion-sensing technology—made frictionless, reliable, and scal
 ---
 
 Mindwarez is about exploring how motion-sensing technology can transform human potential. Imagine lightweight sensors that seamlessly capture how you move, AI that instantly understands your movements, and systems that scale this understanding across millions of people simultaneously.
-My mission is to extend human capability through technology that understands and enhances our natural movements. By creating tools that seamlessly interface with human motion, we forge a deeper connection between mind and machine. This symbiosis—where technology becomes a natural extension of ourselves—leads to greater human flourishing. Through on-body sensing, standardised movement analysis, and scalable AI systems, we can augment human potential in ways previously confined to imagination.
+By creating tools that understand human motion as precisely as a gaming controller, we unlock a cascade of transformations: first revolutionising fitness and longevity tracking from simple metrics to rich movement analysis (just as GPS transformed running and cycling), then enabling our bodies to naturally interface with digital worlds through gesture and motion, and ultimately contributing to a broader vision where aggregate human movement data could train spatial foundation models - potentially bridging the gap between artificial and embodied intelligence.
 This blog documents this journey through four lenses:
 - Mathematics of Machine Learning: Breaking down the algorithms that make motion sensing frictionless, reliable, and scalable.
 - Personal ML Projects: Building and testing systems that capture movement as naturally as breathing.
