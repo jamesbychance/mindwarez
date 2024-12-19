@@ -12,7 +12,6 @@ This blog documents this journey through four lenses:
 - Personal ML Projects: Building and testing systems that capture movement as naturally as breathing.
 - Fictional Inspiration: Imagining futures where motion understanding is as ubiquitous as smartphones.
 - Philosophy and Ethics: Exploring how seamless motion technology reshapes human capability and society.
-
 At its heart, Mindwarez is about unleashing human potential through technology that understands our every move. Join me as we build this future.
 Awestruck,
 JDE
