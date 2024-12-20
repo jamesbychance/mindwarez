@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "welcome to mindwarez"
+title: "Welcome to mindwarez"
 category: Blog
 meta_thoughts: Wearable motion-sensing technology—made frictionless, replicable, and scalable—becomes an extension of ourselves to enhance ourselves.
 ---
