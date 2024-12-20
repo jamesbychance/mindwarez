@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What strength movement?"
-category:Math
+category: Math
 meta_thoughts: From neurode to perceptron; handling logic gates, classification and higher dimensionality.
 ---
 
