@@ -13,5 +13,7 @@ This blog documents this journey through four lenses:<br>
 - Fictional Inspiration: Imagining futures where motion understanding is as ubiquitous as smartphones.
 - Philosophy and Ethics: Exploring how seamless motion technology reshapes human capability and society.<br>
 At its heart, Mindwarez is about unleashing human potential through technology that understands our every move.<br>
+
 Join me as we build this future.<br>
+
 JDE
