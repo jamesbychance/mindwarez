@@ -195,6 +195,28 @@ p {
     line-height: 1.6;
 }
 
+/* New list styling */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 1.2em;
+    margin-left: 0;
+}
+
+ul li, ol li {
+    margin-bottom: 0.5em;
+    line-height: 1.6;
+}
+
+ul li p, ol li p {
+    margin: 0;
+    text-indent: 0;
+}
+
+/* Fix for nested lists if you use them */
+ul ul, ol ol, ul ol, ol ul {
+    margin: 0.5em 0;
+}
+
 a {
     color: var(--accent-blue);
     text-decoration: none;
