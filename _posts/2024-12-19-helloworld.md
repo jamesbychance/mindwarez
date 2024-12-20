@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "welcome to mindwarez"
-category: Project
+category: Blog
 meta_thoughts: Wearable motion-sensing technology—made frictionless, replicable, and scalable—becomes an extension of ourselves to enhance ourselves.
 ---
 
@@ -10,7 +10,7 @@ By creating tools that understand human motion as precisely as a gaming controll
 This blog documents this journey through four lenses:<br>
 <div>
 <ul>
-<li>Mathematics of Machine Learning: Breaking down the algorithms that make motion sensing frictionless, reliable, and scalable.</li>
+<li>**Mathematics of Machine Learning:** Breaking down the algorithms that make motion sensing frictionless, reliable, and scalable.</li>
 <li>Personal ML Projects: Building and testing systems that capture movement as naturally as breathing.</li>
 <li>Fictional Inspiration: Imagining futures where motion understanding is as ubiquitous as smartphones.</li>
 <li>Philosophy and Ethics: Exploring how seamless motion technology reshapes human capability and society.</li>
