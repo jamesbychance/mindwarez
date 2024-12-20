@@ -11,8 +11,8 @@ This blog documents this journey through four lenses:<br>
 - Mathematics of Machine Learning: Breaking down the algorithms that make motion sensing frictionless, reliable, and scalable.
 - Personal ML Projects: Building and testing systems that capture movement as naturally as breathing.
 - Fictional Inspiration: Imagining futures where motion understanding is as ubiquitous as smartphones.
-- Philosophy and Ethics: Exploring how seamless motion technology reshapes human capability and society.<br><br>
-
+- Philosophy and Ethics: Exploring how seamless motion technology reshapes human capability and society.<br>
+<br>
 At its heart, Mindwarez is about unleashing human potential through technology that understands our every move.<br><br>
 Join me as we build this future.<br><br>
 JDE
