@@ -184,14 +184,20 @@ h2,
 h2 a,
 .feed-item h2,
 article h2 {
-    font-family: 'JetBrains Mono', monospace;
+    font-family: -apple-system, system-ui, sans-serif;  /* Changed from JetBrains Mono */
     color: var(--accent-blue);
     text-decoration: none;
     cursor: pointer;
     font-weight: 400;
+<<<<<<< HEAD
     font-size: 2em;  /* Increased from previous values to match the image */
+=======
+    font-size: 2.5rem;  /* Adjusted from 3.5em */
+>>>>>>> 0d4d75a (changes to fonts)
     margin-top: 0;
-    letter-spacing: -0.02em; /* Adding slight letter spacing adjustment */
+    margin-bottom: 1.5rem;
+    text-transform: lowercase;  /* Added to match the lowercase style */
+    letter-spacing: normal;  /* Removed the negative letter-spacing */
 }
 
 
