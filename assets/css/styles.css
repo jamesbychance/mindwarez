@@ -184,16 +184,16 @@ h2,
 h2 a,
 .feed-item h2,
 article h2 {
-    font-family: -apple-system, system-ui, sans-serif;  /* Changed to system font stack */
+    font-family: -apple-system, system-ui, sans-serif;  /* Changed back to system font */
     color: var(--accent-blue);
     text-decoration: none;
     cursor: pointer;
     font-weight: 400;
-    font-size: 1.1em;  /* Reduced from 1.4em to match image */
+    font-size: 1.8em;  /* Adjusted to match image */
     margin-top: 0;
-    margin-bottom: 1rem;
-    text-transform: lowercase;  /* Keep lowercase styling */
-    letter-spacing: normal;  /* Reset letter spacing */
+    margin-bottom: 1.5rem;
+    text-transform: lowercase;  /* Added back as the image shows lowercase */
+    letter-spacing: -0.01em;  /* Slight negative letter spacing for that clean look */
 }
 
 
