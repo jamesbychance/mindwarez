@@ -9,7 +9,20 @@ layout: default
     <h2>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
-    {{ post.excerpt }}
+    
+    <div class="post-excerpt">
+        {{ post.excerpt }}
+        <div class="read-more-container">
+            <div class="neural-dots">
+                <div class="neural-dot"></div>
+                <div class="neural-dot"></div>
+                <div class="neural-dot"></div>
+            </div>
+            <a href="{{ post.url | relative_url }}" class="read-more">
+                Access full thought matrix <span class="arrow">→</span>
+            </a>
+        </div>
+    </div>
 
     <div class="meta-thoughts">
         {{ post.meta_thoughts }}
