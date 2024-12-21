@@ -211,7 +211,7 @@ h2 {
     margin-top: 0;
     font-weight: 400;
     font-size: 1.4em;
-    color: var(--interface-white);
+    color: var(--accent-blue);  /* Changed from var(--interface-white) to var(--accent-blue) */
 }
 
 .meta-thoughts {
