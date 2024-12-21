@@ -33,7 +33,7 @@ body {
     padding: 20px;
     line-height: 1.6;
     min-height: 100vh;
-    background-image:
+    background-image: 
         linear-gradient(
             rgba(0, 102, 255, 0.05) 1px,
             transparent 1px
@@ -119,12 +119,12 @@ body {
     backdrop-filter: blur(5px);
     animation: float 6s infinite ease-in-out;
     position: relative;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
 }
 
 .feed-item:hover {
-    transform: translateY(-5px) scale(1.01);
-    box-shadow: 0 10px 30px rgba(74, 144, 226, 0.1);
+    border-color: var(--accent-blue);
+    box-shadow: 0 0 20px rgba(74, 144, 226, 0.15);
 }
 
 .feed-item:nth-child(odd) {
@@ -188,31 +188,16 @@ h2 {
 }
 
 h2 a {
-    position: relative;
-    color: var(--interface-white);
+    color: var(--accent-blue);
     text-decoration: none;
     transition: all 0.3s ease;
-    padding-right: 0.8em;
-}
-
-h2 a::after {
-    content: '→';
-    position: absolute;
-    right: 0;
-    opacity: 0;
-    transform: translateX(-5px);
-    transition: all 0.3s ease;
-    color: var(--accent-blue);
-    font-size: 0.9em;
+    cursor: pointer;
+    opacity: 0.8;
 }
 
 h2 a:hover {
-    color: var(--accent-blue);
-}
-
-h2 a:hover::after {
-    opacity: 0.8;
-    transform: translateX(0);
+    opacity: 1;
+    text-decoration: underline;
 }
 
 .meta-thoughts {
