@@ -180,21 +180,22 @@ body {
     border-radius: 10px;
 }
 
-h2 {
-    margin-top: 0;
-    font-weight: 400;
-    font-size: 1.4em;
-}
-
-h2 a {
+h2, 
+h2 a,
+.feed-item h2,
+article h2 {
     color: var(--accent-blue);
     text-decoration: none;
     cursor: pointer;
+    font-weight: 400;
+    font-size: 1.4em;
+    margin-top: 0;
 }
 
 h2 a:hover,
 h2 a:visited,
-h2 a:active {
+h2 a:active,
+article h2 {
     color: var(--accent-blue);
     text-decoration: none;
 }
