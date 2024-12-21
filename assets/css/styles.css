@@ -35,12 +35,12 @@ body {
     min-height: 100vh;
     background-image: 
         linear-gradient(
-            rgba(0, 102, 255, 0.05) 1px,
+            rgba(0, 102, 255, 0.08) 1px,
             transparent 1px
         ),
         linear-gradient(
             90deg,
-            rgba(0, 102, 255, 0.05) 1px,
+            rgba(0, 102, 255, 0.08) 1px,
             transparent 1px
         );
     background-size: 30px 30px;
