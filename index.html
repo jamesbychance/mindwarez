@@ -5,13 +5,15 @@ layout: default
 <div class="feed-item">
     <div class="thread-line"></div>
     <div class="category">{{ post.category }}</div>
-    
+
     <h2>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
-    
+
     <div class="post-excerpt">
-        {{ post.excerpt }}
+        {% assign words = post.content | strip_html | split: ' ' %}
+        {% assign truncated_content = words | slice: 0, 20 | join: ' ' %}
+        {{ truncated_content }}{% if words.size > 20 %}... <a href="{{ post.url | relative_url }}" class="read-more">Read More<span class="read-more-arrow">→</span></a>{% endif %}
     </div>
 
     <div class="meta-thoughts">
