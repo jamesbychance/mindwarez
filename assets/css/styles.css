@@ -180,22 +180,22 @@ body {
     border-radius: 10px;
 }
 
+/* Commenting out the previous h2 styling
 h2, 
 h2 a,
 .feed-item h2,
 article h2 {
-    font-family: -apple-system, system-ui, sans-serif;  /* Changed back to system font */
+    font-family: -apple-system, system-ui, sans-serif;
     color: var(--accent-blue);
     text-decoration: none;
     cursor: pointer;
     font-weight: 400;
-    font-size: 1.8em;  /* Adjusted to match image */
+    font-size: 1.8em;
     margin-top: 0;
     margin-bottom: 1.5rem;
-    text-transform: lowercase;  /* Added back as the image shows lowercase */
-    letter-spacing: -0.01em;  /* Slight negative letter spacing for that clean look */
+    text-transform: lowercase;
+    letter-spacing: -0.01em;
 }
-
 
 h2 a:hover,
 h2 a:visited,
@@ -203,6 +203,15 @@ h2 a:active,
 article h2 {
     color: var(--accent-blue);
     text-decoration: none;
+}
+*/
+
+/* Using the original simple h2 styling */
+h2 {
+    margin-top: 0;
+    font-weight: 400;
+    font-size: 1.4em;
+    color: var(--interface-white);
 }
 
 .meta-thoughts {
