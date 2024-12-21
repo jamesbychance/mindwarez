@@ -180,13 +180,6 @@ body {
     border-radius: 10px;
 }
 
-h2 {
-    color: var(--accent-blue) !important;  /* Add this line */
-    margin-top: 0;
-    font-weight: 400;
-    font-size: 1.4em;
-}
-
 h2, 
 h2 a,
 .feed-item h2,
@@ -195,7 +188,7 @@ article h2 {
     text-decoration: none;
     cursor: pointer;
     font-weight: 400;
-    font-size: 1.4em;
+    font-size: 1em;
     margin-top: 0;
 }
 
