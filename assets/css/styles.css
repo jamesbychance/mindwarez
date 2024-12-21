@@ -189,7 +189,7 @@ article h2 {
     text-decoration: none;
     cursor: pointer;
     font-weight: 400;
-    font-size: 3.5em;  /* Increased from previous values to match the image */
+    font-size: 2em;  /* Increased from previous values to match the image */
     margin-top: 0;
     letter-spacing: -0.02em; /* Adding slight letter spacing adjustment */
 }
