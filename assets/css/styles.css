@@ -244,3 +244,13 @@ a {
 a:hover {
     opacity: 0.8;
 }
+
+.title .home-link {
+    color: var(--accent-blue);
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+}
+
+.title .home-link:hover {
+    opacity: 0.8;
+}
