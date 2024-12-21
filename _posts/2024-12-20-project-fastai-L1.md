@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Athletics or Cardio?"
+title: "Athletics or cardio?"
 category: Project
 meta_thoughts: Classifing the training session from IMU data by activity, either athletics or cardio.
 ---
